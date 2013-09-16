@@ -17,8 +17,9 @@ setup(
     ],
     author = "Jim Holmström",
     author_email = "jim.holmstroem@gmail.com",
-    description = "Adds the possibility to add ",
+    description = "Adds the possibility to add a metadata"
+                  "attribute which gets pickled properply.",
     license = "Free",
     keywords = "pandas dataframe metadata attributes",
-    url = "",   # project home page, if any
+    url = "",
 )
